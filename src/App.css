@@ -1,0 +1,11 @@
+.app {
+  background-color: black;
+}
+
+.appContainer {
+  background-color: black;
+  min-height: 100vh;
+  display: grid;
+  grid-template-rows: max-content auto;
+  color: white;
+}

@@ -1,0 +1,11 @@
+.cardContainer {
+  display: grid;
+  grid-gap: 8px;
+  width: 100%;
+  height: max-content;
+  background-color: black;
+  color: white;
+  border-radius: 4px;
+  cursor: pointer;
+  padding-block: 8px;
+}
